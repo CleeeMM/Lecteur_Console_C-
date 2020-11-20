@@ -1,0 +1,13 @@
+C:\Users\chris\source\repos\Lecteur_C\bin\Debug\netcoreapp3.1\Lecteur_C.exe
+C:\Users\chris\source\repos\Lecteur_C\bin\Debug\netcoreapp3.1\Lecteur_C.deps.json
+C:\Users\chris\source\repos\Lecteur_C\bin\Debug\netcoreapp3.1\Lecteur_C.runtimeconfig.json
+C:\Users\chris\source\repos\Lecteur_C\bin\Debug\netcoreapp3.1\Lecteur_C.runtimeconfig.dev.json
+C:\Users\chris\source\repos\Lecteur_C\bin\Debug\netcoreapp3.1\Lecteur_C.dll
+C:\Users\chris\source\repos\Lecteur_C\bin\Debug\netcoreapp3.1\Lecteur_C.pdb
+C:\Users\chris\source\repos\Lecteur_C\obj\Debug\netcoreapp3.1\Lecteur_C.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Lecteur_C\obj\Debug\netcoreapp3.1\Lecteur_C.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Lecteur_C\obj\Debug\netcoreapp3.1\Lecteur_C.AssemblyInfo.cs
+C:\Users\chris\source\repos\Lecteur_C\obj\Debug\netcoreapp3.1\Lecteur_C.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Lecteur_C\obj\Debug\netcoreapp3.1\Lecteur_C.dll
+C:\Users\chris\source\repos\Lecteur_C\obj\Debug\netcoreapp3.1\Lecteur_C.pdb
+C:\Users\chris\source\repos\Lecteur_C\obj\Debug\netcoreapp3.1\Lecteur_C.genruntimeconfig.cache
